@@ -1,8 +1,13 @@
 # LinkedIn.Java.Essential.Training-Objects.and.APIs
 Linkedin Learning : Java Essential Training: Objects and APIs by Angie Jones
-  Duration : 2h 8m
-  Beginner
-  Released: 5/27/2022
+ 
+  
+Course Length :  2h 8m
+Level : Beginner
+Released: 5/27/2022
+
+
+Exercise files covering the sections :
 
 1. Inheritance
 2. Polymorphism
